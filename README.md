@@ -1,2 +1,2 @@
-# Java-Project
+# Java-Practice
 Enterprise Java Projects
